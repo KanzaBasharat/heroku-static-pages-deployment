@@ -42,7 +42,7 @@
 }.btn0:hover{
     background-color:black;
     color: teal;
-    transition: 0.4s;
+    transition: 0.6s;
     
 }
 
@@ -64,12 +64,12 @@
     
 }
 #d{
-    background-color:grey;
+    background-color:black;
 
     
 }
 #e{
-    background-color:wheat;
+    background-color:teal;
 }
 #f{
     text-align: center;
@@ -96,12 +96,15 @@
     padding: 10px;
 }
 #k{
-    background-color:yellow;
+    background-color:teal;
     color:black;
 }
 #l{
-    color: blue;
+    color: white;
 }
 #m{
     color: cornsilk;
+}
+#p{
+    color:white;
 }
