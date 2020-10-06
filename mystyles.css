@@ -69,12 +69,12 @@
     
 }
 #e{
-    background-color: lightpink;
+    background-color:wheat;
 }
 #f{
     text-align: center;
     font-size: 60px;
-    color: lightslategray;
+    color: black;
 
 }
 #g{
@@ -96,8 +96,8 @@
     padding: 10px;
 }
 #k{
-    background-color:gold;
-    color: white;
+    background-color:yellow;
+    color:black;
 }
 #l{
     color: blue;
