@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 .nav-item{
-    color: black;
+    color:black;
     font-weight: 600;
 }
 .nav-link{
-    color: black;
+    color:black;
     font-weight: 600;
 }
 .navbar-brand{
@@ -87,10 +87,21 @@
     background-color: black;
 }
 #i{
-    background-color:lightskyblue;
+    background-color: black;
 }
 #j{
     text-align: center;
     color: lightyellow;
     font-size: 40px;
+    padding: 10px;
+}
+#k{
+    background-color:gold;
+    color: white;
+}
+#l{
+    color: blue;
+}
+#m{
+    color: cornsilk;
 }
