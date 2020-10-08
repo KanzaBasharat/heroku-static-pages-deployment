@@ -27,16 +27,16 @@
 }
 .carousel-caption h1{
     font-size: 50px;
-    font-weight: 200;
-    color:yellow;
-    
+    font-weight: 450;
+    color:orangered;
+ 
 }
 .carousel-caption p{
-    font-weight: 600;
+    font-weight: 800;
     color:mediumblue;
 }
 .btn0{
-    background-color:orangered;
+    background-color:goldenrod;
     height: 45px;
     width: 150px;
     color: white;
