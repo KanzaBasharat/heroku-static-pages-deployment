@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+.ml-auto{
+    z-index: 100;
+}
 .nav-item{
     color:black;
     font-weight: 600;
